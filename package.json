@@ -16,5 +16,5 @@
 	"description":"A project that does something awesome",
 	
 	"keywords": ["freecodecamp", "programming"],
-	"licence":"Don't destribute without my knowledge",
+	"licence":"MIT"
 }
