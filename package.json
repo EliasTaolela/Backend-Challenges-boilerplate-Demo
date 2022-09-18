@@ -15,5 +15,6 @@
 	"author": "Elias Taolela",
 	"description":"A project that does something awesome",
 	
-	"keywords": ["freecodecamp", "programming"]
+	"keywords": ["freecodecamp", "programming"],
+	"licence":"Don't destribute without my knowledge",
 }
